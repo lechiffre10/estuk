@@ -50,6 +50,8 @@ group :development do
   gem 'simple_form'
 
   gem 'devise'
+
+  gem 'cancan'
 end
 
 
