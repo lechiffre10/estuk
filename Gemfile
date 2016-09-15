@@ -52,6 +52,8 @@ group :development do
   gem 'devise'
 
   gem 'cancan'
+
+  gem 'paperclip'
 end
 
 
